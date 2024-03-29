@@ -77,4 +77,5 @@ endmodule
 ![Screenshot 2024-03-26 092507](https://github.com/Meenu2823/HALF_ADDER_SUBTRACTOR/assets/139416219/2c759cc2-1367-4e72-9fd7-47bbdcc4725e)
 
 **Result:**
+
 Thus,a half adder and half subtractor circuit has been designed and its truth table has been verified in Quartus using Verilog programming.
